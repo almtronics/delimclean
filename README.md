@@ -1,6 +1,6 @@
 # delimclean
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/almtronics/delimclean)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Last commit](https://img.shields.io/github/last-commit/almtronics/delimclean)
 
 A simple CLI tool for cleaning delimited files by skipping rows, keeping selected columns, renaming output columns and writing cleaned CSV files to an output folder.
